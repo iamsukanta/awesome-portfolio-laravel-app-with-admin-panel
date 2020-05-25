@@ -1,0 +1,51 @@
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+ul li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.header a:hover {
+	text-decoration: none;
+}
+
+.backToHome a:hover {
+	text-decoration: none;
+}
+
+.blog-post {
+	border-left: 1px solid #000;
+}
+.blog-post h4 {
+	color: #333;
+}
+.blog-post h4:hover {
+	color: #999;
+}
+.blog-post a:hover {
+	text-decoration: none;
+}
+
+body {
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.linkText a{
+	color: #333;
+}
+
+.linkText a:hover {
+	text-decoration: none;
+} 
+
+.pagination-view ul {
+	justify-content: center!important;
+}
+
+.footer ul li {
+	font-size: 18px;
+}
