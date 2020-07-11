@@ -1,4 +1,4 @@
-# laravel portpolio app with admin panel
+# Laravel portpolio app with admin panel
 
 Personal portfolio laravel app:
 
@@ -23,5 +23,14 @@ passowrd: '123456'
 # Project Image
 ## Home page
 ![](public/img/readme/homepage.PNG)
+
+## Aboutme page
+![](public/img/readme/aboutme.PNG)
+
+## Portfolio page
+![](public/img/readme/portfolio.PNG)
+
+## Contact page
+![](public/img/readme/contact.PNG)
 
 
