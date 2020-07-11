@@ -20,3 +20,8 @@ localhost://8000/login
 email: admin@gmail.com
 passowrd: '123456'
 
+# Project Image
+## Home page
+![]('public/css/img/readme/homepage.PNG')
+
+
