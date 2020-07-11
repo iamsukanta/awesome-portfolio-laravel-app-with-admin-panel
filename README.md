@@ -33,4 +33,10 @@ passowrd: '123456'
 ## Contact page
 ![](public/img/readme/contact.PNG)
 
+# Admin panel
 
+## Dashboard
+![](public/img/readme/dashboard.PNG)
+
+## Blogpost
+![](public/img/readme/blogpost.PNG)
