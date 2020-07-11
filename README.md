@@ -22,6 +22,6 @@ passowrd: '123456'
 
 # Project Image
 ## Home page
-![]('public/css/img/readme/homepage.PNG')
+![]('public/img/readme/homepage.PNG')
 
 
